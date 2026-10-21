@@ -4,8 +4,8 @@ Hospital Emergency Room Dashboard
 
 ## Dashboard 1: Monthly View 
 ### Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
-### Charts to Develop:
--Patient Admission Status: Track admitted vs. non-admitted patients.
+## Charts to Develop:
+--Patient Admission Status: Track admitted vs. non-admitted patients.
 -Patient Age Distribution: Group patients by 10-year age intervals.
 -Department Referrals: Analyze referral trends across different departments.
 -Timeliness: Measure the percentage of patients seen within 30 minutes.
