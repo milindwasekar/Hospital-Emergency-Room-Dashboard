@@ -20,5 +20,20 @@ Provide a holistic summary of hospital performance for a selected date range.
 Charts to Develop:
 1. Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
 
+## Dashboard 3: Patient Details
+### Objective: 
+Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+Charts to Develop: A grid displaying essential fields:
+1. Patient ID
+2. Patient Full Name
+3. Gender
+4. Age
+5. Admission Date
+6. Patient Race
+7. Wait Time
+8. Department Referral
+9. Admission Status
+
+
 
 
